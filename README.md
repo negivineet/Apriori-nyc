@@ -1,6 +1,6 @@
 # Apriori-nyc
 Implementation of Apriori Algorithm on NYC-311 Dataset
-You will need 311 - DATASET ( download online - available for free )
+You will need 311 - DATASET (download online - available for free)
 
 1. java AP -g < $F > 1col.txt 
 This mode ("generate") will take an input file and generate 1 column
